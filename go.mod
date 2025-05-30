@@ -1,4 +1,4 @@
-module envparse
+module github.com/zethuman/envparse
 
 go 1.23.0
 
