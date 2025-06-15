@@ -1,6 +1,6 @@
 module github.com/zethuman/envparse
 
-go 1.23.0
+go 1.22
 
 require github.com/rs/zerolog v1.34.0
 
